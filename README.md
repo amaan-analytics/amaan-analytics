@@ -1,6 +1,5 @@
-# Hi there, I'm Amaan Ul Haq 👋 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaan-ul-haq-33bbaa380)      [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ulhaqamaan6@gmail.com)
-
+# Hi there, I'm Amaan Ul Haq 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="hi">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaan-ul-haq-33bbaa380)          [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ulhaqamaan6@gmail.com)
 🎓 **BS in Data Science Student | Data Analyst Enthusiast**  
 📍 From Uttar Pradesh, India  
 
@@ -24,12 +23,12 @@
 - 🧠 I’m currently building hands-on **data projects**  
 - 🚀 I’m learning **Machine Learning & Data Visualization**  
 - 💬 Ask me about anything related to **Data Analytics**  
-- 📧 How to reach me: **ulhaqamaan6@gmail.com**
+- 📧 How to reach me: [ulhaqamaan6@gmail.com](mailto:ulhaqamaan6@gmail.com)
 
 ---
 
 ### 📚 Featured Projects 
-- 🧾 [Online Book Store (SQL Project)](https://github.com/amaan-analytics/Online-Book-Store-SQL-Project)  
+- 🧾 Online Book Store (SQL Project) *(https://github.com/amaan-analytics/Online-Book-Store-SQL-Project)*
 - 📊 Excel Dashboard Projects *(https://github.com/amaan-analytics/Adidas-Sales-Database)*  
 - 📈 Excel Report Projects *(https://github.com/amaan-analytics/Task-Management-Tracker)*  
 
