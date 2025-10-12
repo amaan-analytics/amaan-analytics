@@ -1,5 +1,6 @@
-# Hi there, I'm Amaan Ul Haq 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="hi">
+# Hi there, I'm Amaan Ul Haq <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="hi">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaan-ul-haq-33bbaa380)          [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ulhaqamaan6@gmail.com)
+
 🎓 **BS in Data Science Student | Data Analyst Enthusiast**  
 📍 From Uttar Pradesh, India  
 
