@@ -1,4 +1,5 @@
-# 👋 Hi there, I'm Amaan Ul Haq  
+# Hi there, I'm Amaan Ul Haq 👋 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaan-ul-haq-33bbaa380)      [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ulhaqamaan6@gmail.com)
 
 🎓 **BS in Data Science Student | Data Analyst Enthusiast**  
 📍 From Uttar Pradesh, India  
@@ -11,13 +12,6 @@
 - 📊 Experienced in creating **Excel dashboards and SQL-based projects**  
 - 🚀 Always eager to learn new tools and technologies in data science  
 - 🎯 **Goal:** To become a skilled **Data Analyst / Data Scientist** and work on impactful real-world projects  
-
----
-
-### 🤝 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaan-ul-haq-33bbaa380)   
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ulhaqamaan6@gmail.com)
 
 ---
 
