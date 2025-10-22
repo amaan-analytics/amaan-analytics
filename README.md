@@ -30,7 +30,7 @@
 
 ### 📚 Featured Projects 
 - 🧾 Online Book Store (SQL Project) *(https://github.com/amaan-analytics/Online-Book-Store-SQL-Project)*
-- 📊 Excel Dashboard Projects *(https://github.com/amaan-analytics/Adidas-Sales-Database)*  
+- 📊 PowerBI Dashboard Projects *(https://github.com/amaan-analytics/Mobile-Store-Dashboard-PowerBI)*  
 - 📈 Excel Report Projects *(https://github.com/amaan-analytics/Task-Management-Tracker)*  
 
 ---
