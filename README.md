@@ -7,11 +7,11 @@
 ---
 
 ### 💡 About Me  
-- 📘 Currently pursuing **BS in Data Science and Applications** from **IIT Madras**  
-- 💻 Passionate about **Data Analytics, SQL, Power BI, Python, and Machine Learning**  
-- 📊 Experienced in creating **Excel Analysis, Power BI dashboards and SQL-based projects**  
-- 🚀 Always eager to learn new tools and technologies in data science  
-- 🎯 **Goal:** To become a skilled **Data Analyst / Data Scientist** and work on impactful real-world projects  
+  📘 Currently pursuing **BS in Data Science and Applications** from **IIT Madras**  
+  💻 Passionate about **Data Analytics, SQL, Power BI, Python, and Machine Learning**  
+  📊 Experienced in creating **Excel Analysis, Power BI dashboards and SQL-based projects**  
+  🚀 Always eager to learn new tools and technologies in data science  
+  🎯 **Goal:** To become a skilled **Data Analyst / Data Scientist** and work on impactful real-world projects  
 
 ---
 
